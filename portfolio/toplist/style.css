@@ -1,0 +1,22 @@
+.container {
+	padding: 30px 30px;
+	width: 50%;
+}
+.title-box {
+	display: flex;
+}
+
+.title {
+	padding-left: 25px;
+	background-color: #33BEBE;
+	font-family: sans-serif;
+	font-size: 60px;
+	color: #fff;
+	font-weight: normal;
+	height: 120px;
+	width: 100%;
+}
+
+.app {
+	display: flex;
+}

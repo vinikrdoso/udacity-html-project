@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+} 
+
+body {	
+	width: 100%;
+}
+
+.image {
+	max-width: 29%;
+	width: 100%;
+	margin-right: 5px;
+}
+
+.description {
+	max-width: 35%;
+	color: #7C8B88;
+	font-size: 31px;
+	font-family: sans-serif;
+	font-weight: normal;
+	height: 10px;
+	text-align: left;
+}
+
+.title {
+	background-color: #33BEBE;
+	height: 120px;
+	color: #fff;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 65px;
+	margin-left: 10px;
+	padding-left: 20px; 
+}
+
+.title-box {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.app {
+	display: flex;
+    margin-top: 50px;
+}
